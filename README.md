@@ -36,6 +36,7 @@ ESP32-C3 GPIO10 ---> Red LED (Anode)
 ESP32-C3 GND     ---> DHT11 GND, LED Cathode
 ESP32-C3 3V3     ---> DHT11 VCC
 ```
+![Screenshot 2025-04-07 013124](https://github.com/user-attachments/assets/521ad03a-4f5e-4659-a1af-43f5c302567a)
 
 ## 📥 Installation
 
@@ -88,7 +89,7 @@ You can control the system and query data using Google Assistant by linking your
 
 **Example voice commands:**
 - "Hey Google, turn on the LED?"
-- "Hey Google, turn of the LED."
+- "Hey Google, turn off the LED."
 
 ### LED Alerts
 - The Red LED will turn on if the temperature or humidity crosses a predefined threshold.
